@@ -21,4 +21,5 @@ Proyecto Node con typescript con sistema de autentificacion y API REST de users,
 ## Wow
 
 > Sino mira el video de sergio code PRACTICA 4 https://www.youtube.com/watch?v=I17ln313Pjk&t=4s
+> Y mas material en https://gist.github.com/sergiecode/79005221a4adfbfa3a2edd62e787663c
 
