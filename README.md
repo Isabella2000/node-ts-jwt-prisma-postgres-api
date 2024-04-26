@@ -1,4 +1,4 @@
-# **Proyecto Node ts jwt prisma postgres api
+# Proyecto Node ts jwt prisma postgres api
 Proyecto Node con typescript con sistema de autentificacion y API REST de users, con base de datos Postgres y como ORM Prisma
 
 ## Comandos
